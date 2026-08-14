@@ -1,0 +1,11 @@
+# Virtual Environment (stops thousands of package files from uploading)
+.venv/
+venv/
+env/
+
+# Python byte-code / cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secret keys
+.env
